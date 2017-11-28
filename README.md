@@ -1,3 +1,8 @@
+Fork of https://github.com/jaroslavtyc/mautic-vocative
+Fix tokens for emails and issue with unsubscribe for broadcast emails.
+Added support for dynamic content.
+
+
 # Usage
 In your Mautic insert into an email template this shortcode around *some name*
 `[some name|vocative]`
