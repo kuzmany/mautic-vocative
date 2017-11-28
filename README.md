@@ -1,6 +1,14 @@
 Fork of https://github.com/jaroslavtyc/mautic-vocative
-Fix tokens for emails and issue with unsubscribe for broadcast emails.
-Added support for dynamic content.
+- Fix tokens for emails and issue with unsubscribe for broadcast emails.
+- Added support for dynamic content
+
+Donate by  https://vietnamisa.cz/
+
+My other Mautic contributions:
+https://github.com/mautic/mautic/pulls?utf8=%E2%9C%93&q=author%3Akuzmany
+
+One click free VPS and Mautic Setup
+https://mtcpilot.com/
 
 
 # Usage
